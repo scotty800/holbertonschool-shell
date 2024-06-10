@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugoa -R /permissions
+finf /permissions/hello -type d -exec chmod 111 {} \
