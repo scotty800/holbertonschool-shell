@@ -1,2 +1,2 @@
 #!/bin/bash
-finf /permissions/hello -type d -exec chmod 111 {} \
+find /permissions/hello -type d -exec chmod 111 {} \
