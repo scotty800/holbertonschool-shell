@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/paswwd |  wc -l
+grep root /etc/passwd
