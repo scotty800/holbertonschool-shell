@@ -1,2 +1,2 @@
 #!/bin/bash
-ps1="hello user"
+echo '''hello MyUser'''
