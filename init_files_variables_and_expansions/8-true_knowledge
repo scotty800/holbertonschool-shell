@@ -1,2 +1,2 @@
 #!/bin/bash
-set.TRUEKNOWLEDGE
+echo $(( $TRUEKNOWLEDGE+128 ))
