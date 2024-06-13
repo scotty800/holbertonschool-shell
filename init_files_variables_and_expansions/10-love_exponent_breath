@@ -1,2 +1,2 @@
 #!/bin/bash
-Printenv.BREATH Printenv.LOVE
+echo $(( $BREATH ** $LOVE ))
